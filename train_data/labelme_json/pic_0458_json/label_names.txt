@@ -1,0 +1,6 @@
+_background_
+Bottle
+Clip
+Eraser
+Glue
+Pen
