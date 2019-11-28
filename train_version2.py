@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-
+from cv2 import cv2 # if you use vscode it will cancel the error in cv2
 import os
 import sys
 import random

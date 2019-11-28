@@ -8,11 +8,11 @@ This repository is part of my master graduate design which uses Mask-RCNN to det
 
 
 
-1 	U should prepared your own data to train the network. The folder ''train_data" is my data, there are 4 important folder in it, include:
+1 	U should prepared your own data to train the network. The folder [train_data](https://github.com/xuejieshougeji0826/Mask_RCNN-master/tree/master/train_data) is my data, there are 4 important folder in it, include:
 
-​		 (1)"pic" you should put all the train pictures in it; 
+​		 (1)[pic](https://github.com/xuejieshougeji0826/Mask_RCNN-master/tree/master/train_data/pic) you should put all the train pictures in it; 
 
-​		 (2)"json" in this folder, you should use an app called "labelme" to create json 	files base on your train data in  the "pic" folder. it's very easy to install.
+​		 (2)[json](https://github.com/xuejieshougeji0826/Mask_RCNN-master/tree/master/train_data/json) in this folder, you should use an app called "labelme" to create json 	files base on your train data in  the "pic" folder. it's very easy to install.
 
  			pip install labelme  
 
